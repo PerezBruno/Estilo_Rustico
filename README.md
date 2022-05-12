@@ -1,2 +1,8 @@
 # Estilo_Rustico
-Proyecto practico - pagina empresa decoracion
+Proyecto práctico - página empresa decoración.
+
+Proyecto que inicié para adquirir entrenamiento y afirmar conocimientos durante la capacitación de **#Argentinaprograma.**
+##
+### Tecnologías utilizadas:
+
+Html, css, bootstrap.

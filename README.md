@@ -6,3 +6,9 @@ Proyecto que inicié para adquirir entrenamiento y afirmar conocimientos durante
 ### Tecnologías utilizadas:
 
 Html, css, bootstrap.
+
+*[linkedIn] (www.linkedin.com/in/perez-bruno)
+
+## Acceder al ejemplo en vivo.
+
+https://perezbruno.github.io/Estilo_Rustico/

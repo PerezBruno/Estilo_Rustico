@@ -7,7 +7,8 @@ Proyecto que inicié para adquirir entrenamiento y afirmar conocimientos durante
 
 Html, css, bootstrap.
 
-*[linkedIn] (www.linkedin.com/in/perez-bruno)
+## linkedIn
+www.linkedin.com/in/perez-bruno
 
 ## Acceder al ejemplo en vivo.
 
